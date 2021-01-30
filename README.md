@@ -17,8 +17,8 @@ E8. Recommender System| LastFM 아티스트 추천 ([link](https://github.com/ke
 Contents|Link
 --------|:--:
 F2. Markdown| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F2_markdown.ipynb)|
-F7. Scikit-learn| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F7_scikit-learn.ipynb)|
 F8. Visualization| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F8_visualization.ipynb)|
+F9. Scikit-learn| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F9_scikit-learn.ipynb)|
 F10. Class| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F10_class.ipynb)
 F11. EDA, Feature Engineering| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F11_Pokemon_EDA.ipynb)
 F12. Unsupervised Learning| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F12_unspervised_learning.ipynb)
