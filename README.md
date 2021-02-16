@@ -14,6 +14,7 @@ E7. Face Embedding| FaceNet 얼굴 임베딩 ([link](https://github.com/kec0130/
 E8. Recommender System| LastFM 아티스트 추천 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E8_music_recommendation.ipynb))| MovieLens 영화 추천 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E8_movie_recommendation.ipynb))
 E9. Kaggle| Kaggle 집값 예측 baseline ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E9_kakr_housing.ipynb))| Kaggle 집값 예측 submission ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E9_kakr_housing_sub.ipynb))
 E10. Image Segmentation| Shallow Focus 만들기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E10_semantic_segmentation.ipynb))| 배경 블러, 크로마키 합성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E10_semantic_segmentation_pjt.ipynb))
+E11. Text Summarization| Amazon Food Review 요약 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E11_text_summarization.ipynb))| 뉴스 요약([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E11_text_summarization_pjt.ipynb))
 
 ## Fundamental
 Contents|Link
