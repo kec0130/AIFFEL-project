@@ -32,3 +32,4 @@ F15. Regression| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fund
 F16. Multitasking| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F16_multitasking.ipynb)
 F18. Anomaly Detection| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F18_anomaly_detection.ipynb)
 F19. Deep Learning| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F19_deep_learning.ipynb)
+F20. Image Processing| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F20_image_processing.ipynb)
