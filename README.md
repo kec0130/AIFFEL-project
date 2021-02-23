@@ -17,6 +17,7 @@ E9. Kaggle| Kaggle 집값 예측 baseline ([link](https://github.com/kec0130/AIF
 E10. Image Segmentation| Shallow Focus 만들기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E10_semantic_segmentation.ipynb))| 배경 블러, 크로마키 합성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E10_semantic_segmentation_pjt.ipynb))
 E11. Text Summarization| Amazon Food Review 요약 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E11_text_summarization.ipynb))| 뉴스 요약 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E11_text_summarization_pjt.ipynb))
 E12. DCGAN| Fashion MNIST 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E12_dcgan_fashion_mnist.ipynb))| CIFAR10 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E12_dcgan_cifar10_pjt.ipynb))
+E13. Time Series Forecasting| 시계열 예측 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E13_time_series_prediction.ipynb))| ARIMA 모델을 활용한 주가 예측 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E13_stock_prediction_pjt.ipynb))
 
 ## Fundamental Stage
 Contents|Link
