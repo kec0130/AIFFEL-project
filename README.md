@@ -36,3 +36,5 @@ F16. Multitasking| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fu
 F18. Anomaly Detection| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F18_anomaly_detection.ipynb)
 F19. Deep Learning| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F19_deep_learning.ipynb)
 F20. Image Processing| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F20_image_processing.ipynb)
+F21. SQL| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F21_sql.ipynb)
+F22. TensorFlow 2 API| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F22_tf2_api.ipynb)
