@@ -40,3 +40,4 @@ F19. Deep Learning| [link](https://github.com/kec0130/AIFFEL-project/blob/main/f
 F20. Image Processing| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F20_image_processing.ipynb)
 F21. SQL| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F21_sql.ipynb)
 F22. TensorFlow 2 API| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F22_tf2_api.ipynb)
+F24. Linear & Convolution Layer| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F24_linear_convolution_layer.ipynb)
