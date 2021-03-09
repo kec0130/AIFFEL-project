@@ -16,11 +16,12 @@ E8. Recommender System| LastFM 아티스트 추천 ([link](https://github.com/ke
 E9. Kaggle| Kaggle 집값 예측 baseline ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E9_kakr_housing.ipynb))| Kaggle 집값 예측 submission ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E9_kakr_housing_sub.ipynb))
 E10. Image Segmentation| Shallow Focus 만들기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E10_semantic_segmentation.ipynb))| 배경 블러, 크로마키 합성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E10_semantic_segmentation_pjt.ipynb))
 E11. Text Summarization| Amazon Food Review 요약 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E11_text_summarization.ipynb))| 뉴스 요약 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E11_text_summarization_pjt.ipynb))
-E12. DCGAN| Fashion MNIST 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E12_dcgan_fashion_mnist.ipynb))| CIFAR10 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E12_dcgan_cifar10_pjt.ipynb))
+E12. Generative Adversarial Network| Fashion MNIST 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E12_dcgan_fashion_mnist.ipynb))| CIFAR10 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E12_dcgan_cifar10_pjt.ipynb))
 E13. Time Series Forecasting| 시계열 예측 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E13_time_series_prediction.ipynb))| ARIMA 모델을 활용한 주가 예측 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E13_stock_prediction_pjt.ipynb))
 E14. Medical Image Analysis| 폐렴 진단 baseline ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E14_pneumonia_detection.ipynb))| 폐렴 진단 모델 개선 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E14_pneumonia_detection_pjt.ipynb))
 E15. Transformer| 영어 챗봇 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E15_transformer_chatbot.ipynb))| 한국어 챗봇 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E15_chatbot_kr_pjt.ipynb))
-E16. Super Resolution| 이미지 해상도 복원 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_super_resolution.ipynb))| SRGAN을 이용한 고해상도 이미지 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_srgan_pjt.ipynb))|
+E16. Super Resolution| 이미지 해상도 복원 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_super_resolution.ipynb))| SRGAN을 이용한 고해상도 이미지 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_srgan_pjt.ipynb))
+E17. Session-Based Recommendation| 이커머스 상품 추천 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E17_session_based_recommendation.ipynb))| MovieLens 영화 추천
 
 
 ## Fundamental Stage
@@ -41,3 +42,4 @@ F20. Image Processing| [link](https://github.com/kec0130/AIFFEL-project/blob/mai
 F21. SQL| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F21_sql.ipynb)
 F22. TensorFlow 2 API| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F22_tf2_api.ipynb)
 F24. Linear & Convolution Layer| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F24_linear_convolution_layer.ipynb)
+F25. Data Handling| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F25_data_handling.ipynb)
