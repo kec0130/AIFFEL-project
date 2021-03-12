@@ -22,14 +22,15 @@ E14. Medical Image Analysis| 폐렴 진단 baseline ([link](https://github.com/k
 E15. Transformer| 영어 챗봇 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E15_transformer_chatbot.ipynb))| 한국어 챗봇 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E15_chatbot_kr_pjt.ipynb))
 E16. Super Resolution| 이미지 해상도 복원 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_super_resolution.ipynb))| SRGAN을 이용한 고해상도 이미지 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_srgan_pjt.ipynb))
 E17. Session-based Recommendation| 이커머스 상품 추천 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E17_session_based_recommendation.ipynb))| MovieLens 영화 추천
+E18. OCR| OCR 사용해보기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr.ipynb))| OCR 서비스 기획 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr_pjt.ipynb.ipynb))
 
 
 ## Fundamental Stage
 Contents|Link
 --------|:--:
-F2. Markdown| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F2_markdown.ipynb)|
-F8. Visualization| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F8_visualization.ipynb)|
-F9. Scikit-learn| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F9_scikit-learn.ipynb)|
+F2. Markdown| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F2_markdown.ipynb)
+F8. Visualization| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F8_visualization.ipynb)
+F9. Scikit-learn| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F9_scikit-learn.ipynb)
 F10. Class| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F10_class.ipynb)
 F11. EDA, Feature Engineering| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F11_Pokemon_EDA.ipynb)
 F12. Unsupervised Learning| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F12_unspervised_learning.ipynb)
@@ -44,3 +45,4 @@ F22. TensorFlow 2 API| [link](https://github.com/kec0130/AIFFEL-project/blob/mai
 F24. Linear & Convolution Layer| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F24_linear_convolution_layer.ipynb)
 F25. Data Handling| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F25_data_handling.ipynb)
 F26. PySpark| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F26_pyspark.ipynb)
+F27. Embedding & Recurrent Layer| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F27_embedding_recurrent_layer.ipynb)
