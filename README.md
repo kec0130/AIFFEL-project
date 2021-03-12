@@ -22,7 +22,7 @@ E14. Medical Image Analysis| 폐렴 진단 baseline ([link](https://github.com/k
 E15. Transformer| 영어 챗봇 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E15_transformer_chatbot.ipynb))| 한국어 챗봇 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E15_chatbot_kr_pjt.ipynb))
 E16. Super Resolution| 이미지 해상도 복원 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_super_resolution.ipynb))| SRGAN을 이용한 고해상도 이미지 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_srgan_pjt.ipynb))
 E17. Session-based Recommendation| 이커머스 상품 추천 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E17_session_based_recommendation.ipynb))| MovieLens 영화 추천
-E18. OCR| OCR 사용해보기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr.ipynb))| OCR 서비스 기획 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr_pjt.ipynb.ipynb))
+E18. OCR| OCR 사용해보기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr.ipynb))| OCR 서비스 기획 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr_pjt.ipynb))
 
 
 ## Fundamental Stage
