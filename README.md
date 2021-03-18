@@ -23,7 +23,8 @@ E15. Transformer| 영어 챗봇 ([link](https://github.com/kec0130/AIFFEL-projec
 E16. Super Resolution| 이미지 해상도 복원 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_super_resolution.ipynb))| SRGAN을 활용한 고해상도 이미지 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E16_srgan_pjt.ipynb))
 E17. Session-based RecSys| 이커머스 상품 추천 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E17_session_based_recommendation.ipynb))| MovieLens 영화 추천 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E17_session_based_rec_pjt.ipynb))
 E18. OCR| OCR 사용해보기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr.ipynb))| OCR 서비스 기획 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr_pjt.ipynb))
-E19. BERT| KorQuAD 퀴즈 맞히기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E19_bert_qna.ipynb))| pretrained model로 성능 개선 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E19_bert_qna_pjt.ipynb))
+E19. BERT| KorQuAD 퀴즈 맞히기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E19_bert_qna.ipynb))| Pretrained model로 성능 개선 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E19_bert_qna_pjt.ipynb))
+E20. Conditioanl GAN| cGAN, Pix2Pix ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix.ipynb))| Segmentation map 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix_pjt.ipynb))
 
 
 ## Fundamental Stage
