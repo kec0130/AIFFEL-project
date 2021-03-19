@@ -48,3 +48,4 @@ F24. Linear & Convolution Layer| [link](https://github.com/kec0130/AIFFEL-projec
 F25. Data Handling| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F25_data_handling.ipynb)
 F26. PySpark| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F26_pyspark.ipynb)
 F27. Embedding & Recurrent Layer| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F27_embedding_recurrent_layer.ipynb)
+F30. CNN Models| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F30_cnn_models.ipynb)
