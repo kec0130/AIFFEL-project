@@ -2,7 +2,14 @@
 - AIFFEL에서 인공지능을 공부하며 배운 내용을 정리하고 프로젝트 파일을 저장하는 곳입니다.
 - 기간: 2020년 12월 30일 ~ 2021년 6월 23일
 
-## Exploration Stage
+
+## GoingDeeper - CV
+Contents|Practice|Project
+--------|--------|-------
+G2. VGG, ResNet 논문 구현| VGG Ablation Study ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb))| ResNet Ablation Study
+
+
+## Exploration
 Contents|Practice|Project
 --------|--------|-------
 E1. Image Classification| MNIST 손글씨 분류 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E1_classification_mnist.ipynb))| 가위바위보 분류기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E1_rock_scissor_paper.ipynb))
@@ -27,7 +34,7 @@ E19. BERT| KorQuAD 퀴즈 맞히기 ([link](https://github.com/kec0130/AIFFEL-pr
 E20. Conditioanl GAN| cGAN, Pix2Pix ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix.ipynb))| Segmentation map 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix_pjt.ipynb))
 
 
-## Fundamental Stage
+## Fundamentals
 Contents|Link
 --------|:--:
 F2. Markdown| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F2_markdown.ipynb)
