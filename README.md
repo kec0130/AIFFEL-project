@@ -4,9 +4,10 @@
 
 
 ## GoingDeeper - CV
-Contents|Practice|Project
+No.|Practice|Project
 --------|--------|-------
-G2. VGG, ResNet 논문 구현| VGG Ablation Study ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb))| ResNet Ablation Study
+G2| VGG Ablation Study ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb))| ResNet Ablation Study
+G3| Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))
 
 
 ## Exploration
