@@ -4,10 +4,10 @@
 
 
 ## GoingDeeper - CV
-No.|Practice|Project
---------|--------|-------
-G2| VGG Ablation Study ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb))| ResNet Ablation Study
-G3| Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))
+No.|Lecture|Practice|Project
+---|-----|--------|-------
+G1&2| 백본 네트워크 구조 상세분석| VGG Ablation Study ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb))| ResNet Ablation Study (link)
+G3&4| Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))| Augmentation 비교 실험 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G4_data_augmentation.ipynb))| CutMix, Mixup 비교 실험 (link)
 
 
 ## Exploration
