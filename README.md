@@ -4,10 +4,11 @@
 
 
 ## GoingDeeper - CV
-No.|Lecture|Practice|Project
----|-----|--------|-------
-G1&2| 백본 네트워크 구조 상세분석| VGG Ablation Study ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb))| ResNet Ablation Study (link)
-G3&4| Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))| Augmentation 비교 실험 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G4_data_augmentation.ipynb))| CutMix, Mixup 비교 실험 (link)
+Lecture|Project
+-------|-------
+G1. CNN Architectures| G2. Ablation Study ([VGG](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb), ResNet)
+G3. Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))| G4. Augmentation 기법 비교 실험 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G4_data_augmentation_pjt.ipynb))
+G5. Object Detection| G6. 자율주행 보조 시스템 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G6_object_detection_pjt.ipynb))
 
 
 ## Exploration
