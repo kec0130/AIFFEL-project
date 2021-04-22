@@ -1,6 +1,6 @@
 # AIFFEL 인공지능 실습 및 프로젝트
 - AIFFEL에서 AI를 공부하며 배운 내용을 정리하고 프로젝트 파일을 저장하는 곳입니다.
-- 학습 기간: 2020년 12월 30일 ~ 2021년 6월 23일
+- 기간: 2020년 12월 30일 ~ 2021년 6월 23일
 - 주관: 모두의연구소 AIFFEL
 
 
@@ -11,7 +11,7 @@ G1. Backbone Network| G2. Ablation Study ([VGG](https://github.com/kec0130/AIFFE
 G3. Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))| G4. CutMix, Mixup ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G4_data_augmentation_pjt.ipynb))
 G5. Object Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G5_object_detection.ipynb))| G6. 자율주행 보조 시스템 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G6_object_detection_pjt.ipynb))
 G7. Segmentation| G8. 도로 영역 찾기
-G9. Class Activation Map| G10. CAM, Grad-CAM
+G9. Class Activation Map| G10. CAM, Grad-CAM ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G10_class_activation_map_pjt.ipynb))
 
 
 ## Exploration
