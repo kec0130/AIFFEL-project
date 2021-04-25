@@ -12,6 +12,7 @@ G3. Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/mai
 G5. Object Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G5_object_detection.ipynb))| G6. 자율주행 보조 시스템 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G6_object_detection_pjt.ipynb))
 G7. Segmentation| G8. 도로 영역 찾기
 G9. Class Activation Map| G10. CAM, Grad-CAM ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G10_class_activation_map_pjt.ipynb))
+G11. OCR| G12. End-to-End OCR ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G12_ocr_pjt.ipynb))
 
 
 ## Exploration
@@ -39,7 +40,7 @@ E19. BERT| KorQuAD 퀴즈 맞히기 ([link](https://github.com/kec0130/AIFFEL-pr
 E20. Conditioanl GAN| cGAN, Pix2Pix ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix.ipynb))| Segmentation map 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix_pjt.ipynb))
 
 
-## Fundamentals
+## Fundamental
 Contents|Link
 --------|:--:
 F2. Markdown| [link](https://github.com/kec0130/AIFFEL-project/blob/main/fundamental/F2_markdown.ipynb)
