@@ -10,9 +10,10 @@ Lecture|Project
 G1. Backbone Network| G2. Ablation Study ([VGG](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb), [ResNet](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_resnet_ablation_study_pjt.ipynb))
 G3. Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))| G4. CutMix, Mixup ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G4_data_augmentation_pjt.ipynb))
 G5. Object Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G5_object_detection.ipynb))| G6. 자율주행 보조 시스템 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G6_object_detection_pjt.ipynb))
-G7. Segmentation| G8. 도로 영역 찾기
+G7. Segmentation| G8. 도로 영역 찾기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G8_semantic_segmentation_pjt.ipynb))
 G9. Class Activation Map| G10. CAM, Grad-CAM ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G10_class_activation_map_pjt.ipynb))
 G11. OCR| G12. End-to-End OCR ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G12_ocr_pjt.ipynb))
+G13. Camera Sticker App ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G13_camera_sticker_app.ipynb))| G14. 카메라 스티커앱 개선
 
 
 ## Exploration
