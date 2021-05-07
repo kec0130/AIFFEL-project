@@ -14,8 +14,9 @@ G7. Segmentation| G8. 도로 영역 찾기 ([link](https://github.com/kec0130/AI
 G9. Class Activation Map| G10. CAM, Grad-CAM ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G10_class_activation_map_pjt.ipynb))
 G11. OCR| G12. End-to-End OCR ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G12_ocr_pjt.ipynb))
 G13. Camera Sticker App ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G13_camera_sticker_app.ipynb))| G14. 카메라 스티커앱 개선하기
-G15. Eye Center Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G15_coarse_to_fine.ipynb))| G16. 눈 이미지 합성하기
+G15. Eye Center Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G15_coarse_to_fine.ipynb))| G16. 눈 위치에 이미지 합성하기
 G17. Multi-Face Detection| G18. 여러 얼굴에 스티커 적용하기
+G19. Human Pose Estimation| G20. 행동 스티커 만들기
 
 
 ## Exploration
