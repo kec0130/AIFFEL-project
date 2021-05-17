@@ -4,21 +4,6 @@
 - 주관: 모두의연구소 AIFFEL
 
 
-## GoingDeeper - CV
-Lecture|Project
--------|-------
-G1. Backbone Network| G2. Ablation Study ([VGG](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb), [ResNet](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_resnet_ablation_study_pjt.ipynb))
-G3. Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))| G4. CutMix, Mixup ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G4_data_augmentation_pjt.ipynb))
-G5. Object Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G5_object_detection.ipynb))| G6. 자율주행 보조 시스템 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G6_object_detection_pjt.ipynb))
-G7. Segmentation| G8. 도로 영역 찾기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G8_semantic_segmentation_pjt.ipynb))
-G9. Class Activation Map| G10. CAM, Grad-CAM ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G10_class_activation_map_pjt.ipynb))
-G11. OCR| G12. End-to-End OCR ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G12_ocr_pjt.ipynb))
-G13. Camera Sticker App ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G13_camera_sticker_app.ipynb))| G14. 카메라 스티커앱 개선하기
-G15. Eye Center Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G15_coarse_to_fine.ipynb))| G16. 눈 위치에 이미지 합성하기
-G17. Multi-Face Detection| G18. 여러 얼굴에 스티커 적용하기
-G19. Human Pose Estimation| G20. 행동 스티커 만들기
-
-
 ## Exploration
 Contents|Practice|Project
 --------|--------|-------
@@ -42,6 +27,21 @@ E17. Session-based RecSys| 이커머스 상품 추천 ([link](https://github.com
 E18. OCR| OCR 사용해보기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr.ipynb))| OCR 서비스 기획 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E18_ocr_pjt.ipynb))
 E19. BERT| KorQuAD 퀴즈 맞히기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E19_bert_qna.ipynb))| Pretrained model로 성능 개선 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E19_bert_qna_pjt.ipynb))
 E20. Conditioanl GAN| cGAN, Pix2Pix ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix.ipynb))| Segmentation map 이미지 생성 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/exploration/E20_cgan_pix2pix_pjt.ipynb))
+
+
+## GoingDeeper - CV
+Lecture|Project
+-------|-------
+G1. Backbone Network| G2. Ablation Study ([VGG](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_vgg_ablation_study.ipynb), [ResNet](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G2_resnet_ablation_study_pjt.ipynb))
+G3. Data Augmentation ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G3_data_augmentation.ipynb))| G4. CutMix, Mixup ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G4_data_augmentation_pjt.ipynb))
+G5. Object Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G5_object_detection.ipynb))| G6. 자율주행 보조 시스템 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G6_object_detection_pjt.ipynb))
+G7. Segmentation| G8. 도로 영역 찾기 ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G8_semantic_segmentation_pjt.ipynb))
+G9. Class Activation Map| G10. CAM, Grad-CAM ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G10_class_activation_map_pjt.ipynb))
+G11. OCR| G12. End-to-End OCR ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G12_ocr_pjt.ipynb))
+G13. Camera Sticker App ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G13_camera_sticker_app.ipynb))| G14. 카메라 스티커앱 개선하기
+G15. Eye Center Detection ([link](https://github.com/kec0130/AIFFEL-project/blob/main/goingdeeper/G15_coarse_to_fine.ipynb))| G16. 눈 위치에 이미지 합성하기
+G17. Multi-Face Detection| G18. 여러 얼굴에 스티커 적용하기
+G19. Human Pose Estimation| G20. 행동 스티커 만들기
 
 
 ## Fundamental
